@@ -1,8 +1,8 @@
 <p align="center">
-  <h1>Welcome traveler, you've made it to my campfire</h1>
+  <h1 align="center">Welcome traveler, you've made it to my campfire</h1>
   <br/>
   <img src="campfire.png", width=300>
-  <h2>Stay awhile, and rest your weary mind</h2>
+  <h2 align="center">Stay awhile, and rest your weary mind</h2>
   <br/>
   <br/>
   My name is Tibor, but I go mostly by Jack, and I am a passionate data scientist from Slovak Republic, working all kinds of various projects, both ones of my own in my free time, and my Master's thesis as well currently. I'm a big gamer, nerd, love all things science and love geeking out with others over boardgames, videogames, sci-fi, and various other things.
