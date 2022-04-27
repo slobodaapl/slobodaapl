@@ -13,16 +13,17 @@
   <br/>
   Feel free to send me a message to <slobodaapl@gmail.com>, I respond within an hour, unless I'm asleep or distracted by code or a game.
 </p>
-  
- <h2 align="center">The tools I love</h2>
- <p align="center">
-    <img src="favs.png", width=800, align="center">
- </p>
+<br/>
+<br/>
+<h3 align="center">The tools I love</h3>
+<p align="center">
+    <img src="merged.png", width=800, align="center">
+</p>
 
 #### Interested in my GitHub activity? Here you go~
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=slobodaapl&count_private=true&show_icons=true&theme=cobalt)
 <br/>
   
 #### The languages I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slobodaapl&exclude_repo=pcd-gui,JavaCalculatorMLModified,simple-swing-regex-validator,Simple-Invoice-Manager,imageviewer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slobodaapl&exclude_repo=pcd-gui,JavaCalculatorMLModified,Simple-Invoice-Manager,imageviewer)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
