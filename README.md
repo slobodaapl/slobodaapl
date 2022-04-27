@@ -11,7 +11,7 @@
   My name is Tibor, but I go mostly by Jack, and I am a passionate data scientist from Slovak Republic, working all kinds of various projects, both ones of my own in my free time, and my Master's thesis as well currently. I'm a big gamer, nerd, love all things science and love geeking out with others over boardgames, videogames, sci-fi, and various other things.
   <br/>
   <br/>
-  Feel free to send me a message to <slobodaapl@gmail.com>, I respond within an hour, unless I'm asleep or distracted by code or a game.
+  Feel free to send me a message to slobodaapl@gmail.com, I respond within an hour, unless I'm asleep or distracted by code or a game.
 </p>
 <br/>
 <br/>
