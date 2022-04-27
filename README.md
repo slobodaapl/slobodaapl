@@ -1,9 +1,9 @@
 <p align="center">
-  ### Welcome traveller, you've made it to my campfire!
+  #### Welcome traveller, you've made it to my campfire!
   <br/>
-  (Campfire)[campfire.png]
+  <img src="campfire.png">
   <br/>
-  ## Stay a while, and rest your weary soul
+  #### Stay a while, and rest your weary soul
   <br/>
   <br/>
   My name is Tibor, but I go mostly by Jack, and I am a passionate data scientist from Slovak Republic, working all kinds of various projects, both ones of my own in my free time, and my Master's thesis as well currently. I'm a big gamer, nerd, love all things science and love geeking out with others over boardgames, videogames, sci-fi, and various other things.
