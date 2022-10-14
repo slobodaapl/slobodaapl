@@ -17,7 +17,7 @@
 <br/>
 <h3 align="center">The tools I love</h3>
 <p align="center">
-    <img src="merged.png", width=800, align="center">
+    <img src="tools.png", width=800, align="center">
 </p>
 
 #### Interested in my GitHub activity? Here you go~
