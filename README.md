@@ -25,5 +25,5 @@
 <br/>
   
 #### The languages I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slobodaapl&exclude_repo=pcd-gui,imageviewer&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slobodaapl&exclude_repo=imageviewer&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
