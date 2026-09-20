@@ -7,15 +7,17 @@
   </picture>
 </a>
 
-<p>
+<p align="center">
   <a href="https://slobodaapl.dev"><strong>Website</strong></a> &nbsp; · &nbsp;
   <a href="https://slobodaapl.dev/research">Research</a> &nbsp; · &nbsp;
   <a href="https://aleph0.ai">aleph0</a> &nbsp; · &nbsp;
   <a href="mailto:slobodaapl@gmail.com">Contact</a>
 </p>
 
-I build agent systems, AI infrastructure, and research software. Founder of **[aleph0](https://aleph0.ai)**.  
-Mostly **Rust** and **Python**. Private, sovereign AI, heterogeneous compute, and formal methods.
+<p align="center">
+I build agent systems, AI infrastructure, and research software. Founder of <a href="https://aleph0.ai">aleph0 s. r. o.</a><br>  
+Mostly <b>Rust</b> and <b>Python</b>. Private, sovereign AI, heterogeneous compute, love for all things AI honestly.
+</p>
 
 <picture>
   <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/section-dark-mobile.svg">
